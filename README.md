@@ -1,4 +1,5 @@
 # Brain Teasers Challenge
+https://stavros1samaras.github.io/brain-teasers/
 
 A simple web app with logic riddles to sharpen your mind.
 
